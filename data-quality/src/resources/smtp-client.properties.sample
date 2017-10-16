@@ -1,0 +1,9 @@
+# Rename this file to "smtp-client.properties"
+# To properly run classes for mail analysis and related tests you have to configure the following
+# parameters. Please note you cannot use fake settings to properly run the analysis.
+
+# Esecuzione test da sede CDP: cfr. nslookup -q=mx host254-129-static.97-5-b.business.telecomitalia.it
+helo.domainFrom=dns10.interbusiness.it
+ehlo.domainFrom=dns10.interbusiness.it
+mailFrom.sender=test@dns10.interbusiness.it
+

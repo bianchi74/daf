@@ -1,0 +1,9 @@
+#Rename this file to "google.properties"
+
+#Google Custom Search V1 parameters
+googleHost=google.it
+googleKey=<INSERT-HERE-YOUR-GOOGLE-KEY>
+cseId=<INSERT-HERE-YOUR-CUSTOM-SEARCH-ID>
+maxNumberOfRequestsPerDomain=10
+
+#Google Custom Search V2 parameters

@@ -1,0 +1,17 @@
+abuse@
+database@
+fbl@
+ftp@
+noc@
+post@
+postbox@
+postmaster@
+privacy@
+remove@
+root@
+spam@
+subscribe@
+uucp@
+webmaster@
+welcome@
+www@

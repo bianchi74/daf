@@ -1,0 +1,6 @@
+Version 0.2 - in progress
+Added a first spark job designed for DAT aimed to data quality check and data enrichment.
+
+Version 0.1 - 25 September 2017
+Implemented a first version of java classes for data quality.
+Email checkers and subdomain discovery.
